@@ -50,6 +50,10 @@
 		{
 			"Name": "GizmoFramework",
 			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	]
 }
