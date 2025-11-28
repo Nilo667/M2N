@@ -50,10 +50,6 @@
 		{
 			"Name": "GizmoFramework",
 			"Enabled": true
-		},
-		{
-			"Name": "ComicShaders",
-			"Enabled": true
 		}
 	]
 }
